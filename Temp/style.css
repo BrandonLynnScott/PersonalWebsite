@@ -1,0 +1,105 @@
+hr{
+  border-width:30px;
+}
+
+h1{
+  font-size:40px;
+  color:#ff3131;
+}
+
+body{
+  background-image: linear-gradient(black,orange);
+  font-family:Monospace;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+
+h3{
+  font-size:28px;
+}
+
+.mysection1 {
+  background-image:linear-gradient(white,orange);
+  height:300px;
+  text-align:center;
+}
+
+.mysection2{
+  background-image:linear-gradient(white,orange);
+  height:300px;
+  text-align:center;
+}
+
+.mysection3{
+  background-image:linear-gradient(white,orange);
+  height:300px;
+  text-align:center;
+}
+
+table {
+  width: 100%
+}
+
+td{
+  width:33%;
+}
+
+strong{
+  color:#ff6868;
+}
+
+h4{
+  text-align:center;
+  font-size:60px;
+  font-family:monospace;
+}
+
+.mysection4{
+  background-image: url("Skydiving-2.jpg");
+  height:500px;
+  text-align:center;
+  font-family:monospace;
+}
+
+.mysection5{
+  background-image:linear-gradient(white,orange);
+  height:20px;
+  width:1290px;
+  text-align:center;
+}
+
+#img{
+  width:500px;
+  
+}
+
+#imgg{
+  height:200px;
+}
+
+.mysection6{
+  text-align: center;
+  font-size: 20px;
+}
